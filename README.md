@@ -14,6 +14,7 @@ Everything is in **English, for the US and UK market**: the voice, on-screen tex
 | 4 | [04-names-logo-bio.md](04-names-logo-bio.md) | Account names, bios for TikTok / Instagram / Facebook, the logo and profile picture |
 | 5 | [videos/](videos/) | 5 complete videos over 1 minute, scene by scene, with a Flow prompt for every block |
 | 6 | [05-calendar-and-metrics.md](05-calendar-and-metrics.md) | 14-day calendar, posting times (Romania time), the numbers to track |
+| 7 | [editor/](editor/) | Free automatic editor: joins the 9 Flow clips, captions, zooms, exports the final video |
 | — | [brand/](brand/) | The logo (SVG + 1080×1080 PNG), ready to upload as a profile picture |
 
 ## Three things to know first (double-checked)
