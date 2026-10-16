@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+  <title>Steady with Nora</title>
+  <!-- background -->
+  <rect width="1080" height="1080" fill="#F4EFE6"/>
+  <!-- sage disc -->
+  <circle cx="540" cy="540" r="430" fill="#8FA98B"/>
+  <!-- uneven-to-steady line: bumpy on the left, flat on the right -->
+  <path d="M250 610 L330 520 L395 640 L460 470 L520 610 L560 575 L830 575"
+        fill="none" stroke="#F4EFE6" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- terracotta dot at the steady end -->
+  <circle cx="830" cy="575" r="34" fill="#C0563A"/>
+  <!-- wordmark -->
+  <text x="540" y="400" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+        font-size="118" font-weight="700" fill="#2B2B2B" letter-spacing="2">steady</text>
+  <text x="540" y="790" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+        font-size="76" font-style="italic" fill="#F4EFE6">with Nora</text>
+</svg>
