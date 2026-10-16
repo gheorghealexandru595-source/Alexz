@@ -1,12 +1,12 @@
 # Video 3 — POV: it's rent week and you're calm
 
-**Format:** POV · **Scop:** Oameni noi + vânzare · **Durată:** 72 secunde (9 blocuri × 8 s) · **Ținută:** hanoracul gri · **Loc:** biroul din sufragerie
+**Format:** POV · **Goal:** New people + sales · **Length:** 72 seconds (9 blocks × 8 s) · **Outfit:** grey hoodie · **Location:** the living-room desk
 
-**Postezi la (ora României):** 03:30 (seara târziu în SUA, 20:30 New York)
+**Post at (Romania time):** 03:30 (late US evening, 20:30 New York)
 
-**Textul mare de pe primul cadru (CapCut, treimea de sus):** `POV: rent week and you're... calm?`
+**Big text on the first frame (CapCut, top third):** `POV: rent week and you're... calm?`
 
-## Scriptul complet (ce spune Nora)
+## The full script (what Nora says)
 
 ```
 [00-08s] POV, it's rent week, your shifts were slow, and for once you're not panicking.
@@ -20,15 +20,15 @@
 [64-72s] Free version's in my bio, or comment steady. Steady, not perfect. See you next payday.
 ```
 
-## Scenă cu scenă
+## Scene by scene
 
-Mod Flow: **Ingredients to Video** (încarci portretul + cele 4 referințe din `03-personaj.md`), 8 secunde, Veo 3.1 **Fast**. Generezi 2 variante pentru fiecare bloc și o păstrezi pe cea mai bună. Doar blocurile ratate le refaci, eventual pe Quality.
+Flow mode: **Ingredients to Video** (upload the portrait + the 4 references from `03-character.md`), 8 seconds, Veo 3.1 **Fast**. Generate 2 variations per block and keep the best one. Redo only the failed blocks, on Quality if needed.
 
-### Scena 1 · 00–08s
+### Scene 1 · 00–08s
 
-- **Replica** (14 cuvinte, ~5.6 s vorbite): „POV, it's rent week, your shifts were slow, and for once you're not panicking.”
-- **Text pe ecran:** `POV: rent week and you're calm`
-- **Mod Flow:** Ingredients to Video
+- **Line** (14 words, ~5.6 s spoken): "POV, it's rent week, your shifts were slow, and for once you're not panicking."
+- **On-screen text:** `POV: rent week and you're calm`
+- **Flow mode:** Ingredients to Video
 
 ```
 Nora, an original fictional woman, about 28, warm light-olive skin with faint freckles across her nose and cheeks, soft oval face, slightly asymmetrical smile, warm brown eyes, natural thick brows, a small mole under her left eye, dark brown wavy shoulder-length hair half-up in a tortoiseshell claw clip with loose strands, thin gold hoop earrings, no makeup look. Wearing a plain light-grey hoodie. Visible skin texture and pores, natural teeth.
@@ -40,11 +40,11 @@ Audio: clear close-mic voice, quiet room tone, no music.
 Soft window daylight from the left, warm grade. Realistic phone footage. No text on screen, no subtitles, no logos.
 ```
 
-### Scena 2 · 08–16s
+### Scene 2 · 08–16s
 
-- **Replica** (17 cuvinte, ~6.8 s vorbite): „Here's what changed. Rent stopped coming out of one paycheck. It comes out of all of them.”
-- **Text pe ecran:** `Rent comes out of ALL paychecks`
-- **Mod Flow:** Ingredients to Video
+- **Line** (17 words, ~6.8 s spoken): "Here's what changed. Rent stopped coming out of one paycheck. It comes out of all of them."
+- **On-screen text:** `Rent comes out of ALL paychecks`
+- **Flow mode:** Ingredients to Video
 
 ```
 Nora, an original fictional woman, about 28, warm light-olive skin with faint freckles across her nose and cheeks, soft oval face, slightly asymmetrical smile, warm brown eyes, natural thick brows, a small mole under her left eye, dark brown wavy shoulder-length hair half-up in a tortoiseshell claw clip with loose strands, thin gold hoop earrings, no makeup look. Wearing a plain light-grey hoodie. Visible skin texture and pores, natural teeth.
@@ -56,12 +56,12 @@ Audio: clear close-mic voice, quiet room tone, no music.
 Soft window daylight from the left, warm grade. Realistic phone footage. No text on screen, no subtitles, no logos.
 ```
 
-### Scena 3 · 16–24s
+### Scene 3 · 16–24s
 
-- **Replica** (15 cuvinte, ~6.0 s vorbite): „Every payday, a slice goes to rent first. Before groceries, before takeout, before anything else.”
-- **Text pe ecran:** `Rent slice first. Every payday`
-- **Peste imagine în CapCut:** Înregistrare de ecran: Bills Calendar cu chiria pe felii. Păstrezi vocea Norei din blocul Flow; ea rămâne mică într-un colț sau apare iar la final.
-- **Mod Flow:** Ingredients to Video
+- **Line** (15 words, ~6.0 s spoken): "Every payday, a slice goes to rent first. Before groceries, before takeout, before anything else."
+- **On-screen text:** `Rent slice first. Every payday`
+- **Overlay in CapCut:** Screen recording: Bills Calendar with rent in slices. Keep Nora's voice from the Flow block; she stays small in a corner or comes back at the end.
+- **Flow mode:** Ingredients to Video
 
 ```
 Nora, an original fictional woman, about 28, warm light-olive skin with faint freckles across her nose and cheeks, soft oval face, slightly asymmetrical smile, warm brown eyes, natural thick brows, a small mole under her left eye, dark brown wavy shoulder-length hair half-up in a tortoiseshell claw clip with loose strands, thin gold hoop earrings, no makeup look. Wearing a plain light-grey hoodie. Visible skin texture and pores, natural teeth.
@@ -73,11 +73,11 @@ Audio: clear close-mic voice, quiet room tone, no music.
 Soft window daylight from the left, warm grade. Realistic phone footage. No text on screen, no subtitles, no logos.
 ```
 
-### Scena 4 · 24–32s
+### Scene 4 · 24–32s
 
-- **Replica** (16 cuvinte, ~6.4 s vorbite): „Slow week? The slice is smaller, and the cushion from your good weeks fills the gap.”
-- **Text pe ecran:** `Slow week? Cushion fills the gap`
-- **Mod Flow:** Ingredients to Video
+- **Line** (16 words, ~6.4 s spoken): "Slow week? The slice is smaller, and the cushion from your good weeks fills the gap."
+- **On-screen text:** `Slow week? Cushion fills the gap`
+- **Flow mode:** Ingredients to Video
 
 ```
 Nora, an original fictional woman, about 28, warm light-olive skin with faint freckles across her nose and cheeks, soft oval face, slightly asymmetrical smile, warm brown eyes, natural thick brows, a small mole under her left eye, dark brown wavy shoulder-length hair half-up in a tortoiseshell claw clip with loose strands, thin gold hoop earrings, no makeup look. Wearing a plain light-grey hoodie. Visible skin texture and pores, natural teeth.
@@ -89,11 +89,11 @@ Audio: clear close-mic voice, quiet room tone, no music.
 Soft window daylight from the left, warm grade. Realistic phone footage. No text on screen, no subtitles, no logos.
 ```
 
-### Scena 5 · 32–40s
+### Scene 5 · 32–40s
 
-- **Replica** (16 cuvinte, ~6.4 s vorbite): „Good week? You top up the cushion first. Then you can enjoy the rest without guilt.”
-- **Text pe ecran:** `Good week? Top up the cushion`
-- **Mod Flow:** Ingredients to Video
+- **Line** (16 words, ~6.4 s spoken): "Good week? You top up the cushion first. Then you can enjoy the rest without guilt."
+- **On-screen text:** `Good week? Top up the cushion`
+- **Flow mode:** Ingredients to Video
 
 ```
 Nora, an original fictional woman, about 28, warm light-olive skin with faint freckles across her nose and cheeks, soft oval face, slightly asymmetrical smile, warm brown eyes, natural thick brows, a small mole under her left eye, dark brown wavy shoulder-length hair half-up in a tortoiseshell claw clip with loose strands, thin gold hoop earrings, no makeup look. Wearing a plain light-grey hoodie. Visible skin texture and pores, natural teeth.
@@ -105,11 +105,11 @@ Audio: clear close-mic voice, quiet room tone, no music.
 Soft window daylight from the left, warm grade. Realistic phone footage. No text on screen, no subtitles, no logos.
 ```
 
-### Scena 6 · 40–48s
+### Scene 6 · 40–48s
 
-- **Replica** (17 cuvinte, ~6.8 s vorbite): „So by the time rent is due, it's already sitting there. Nothing dramatic happens. That's the point.”
-- **Text pe ecran:** `Rent is already there`
-- **Mod Flow:** Ingredients to Video
+- **Line** (17 words, ~6.8 s spoken): "So by the time rent is due, it's already sitting there. Nothing dramatic happens. That's the point."
+- **On-screen text:** `Rent is already there`
+- **Flow mode:** Ingredients to Video
 
 ```
 Nora, an original fictional woman, about 28, warm light-olive skin with faint freckles across her nose and cheeks, soft oval face, slightly asymmetrical smile, warm brown eyes, natural thick brows, a small mole under her left eye, dark brown wavy shoulder-length hair half-up in a tortoiseshell claw clip with loose strands, thin gold hoop earrings, no makeup look. Wearing a plain light-grey hoodie. Visible skin texture and pores, natural teeth.
@@ -121,12 +121,12 @@ Audio: clear close-mic voice, quiet room tone, no music.
 Soft window daylight from the left, warm grade. Realistic phone footage. No text on screen, no subtitles, no logos.
 ```
 
-### Scena 7 · 48–56s
+### Scene 7 · 48–56s
 
-- **Replica** (18 cuvinte, ~7.2 s vorbite): „I built a simple sheet for this. You type what you earned, it tells you the rent slice.”
-- **Text pe ecran:** `Type what you earned → rent slice`
-- **Peste imagine în CapCut:** Înregistrare de ecran: This Week + Rent Week Plan. Păstrezi vocea Norei din blocul Flow; ea rămâne mică într-un colț sau apare iar la final.
-- **Mod Flow:** Ingredients to Video
+- **Line** (18 words, ~7.2 s spoken): "I built a simple sheet for this. You type what you earned, it tells you the rent slice."
+- **On-screen text:** `Type what you earned → rent slice`
+- **Overlay in CapCut:** Screen recording: This Week + Rent Week Plan. Keep Nora's voice from the Flow block; she stays small in a corner or comes back at the end.
+- **Flow mode:** Ingredients to Video
 
 ```
 Nora, an original fictional woman, about 28, warm light-olive skin with faint freckles across her nose and cheeks, soft oval face, slightly asymmetrical smile, warm brown eyes, natural thick brows, a small mole under her left eye, dark brown wavy shoulder-length hair half-up in a tortoiseshell claw clip with loose strands, thin gold hoop earrings, no makeup look. Wearing a plain light-grey hoodie. Visible skin texture and pores, natural teeth.
@@ -138,11 +138,11 @@ Audio: clear close-mic voice, quiet room tone, no music.
 Soft window daylight from the left, warm grade. Realistic phone footage. No text on screen, no subtitles, no logos.
 ```
 
-### Scena 8 · 56–64s
+### Scene 8 · 56–64s
 
-- **Replica** (17 cuvinte, ~6.8 s vorbite): „Quick note, I'm an AI creator. The sheet is real, and it's built for paychecks that change.”
-- **Text pe ecran:** `AI creator 🤖 real template`
-- **Mod Flow:** Ingredients to Video
+- **Line** (17 words, ~6.8 s spoken): "Quick note, I'm an AI creator. The sheet is real, and it's built for paychecks that change."
+- **On-screen text:** `AI creator 🤖 real template`
+- **Flow mode:** Ingredients to Video
 
 ```
 Nora, an original fictional woman, about 28, warm light-olive skin with faint freckles across her nose and cheeks, soft oval face, slightly asymmetrical smile, warm brown eyes, natural thick brows, a small mole under her left eye, dark brown wavy shoulder-length hair half-up in a tortoiseshell claw clip with loose strands, thin gold hoop earrings, no makeup look. Wearing a plain light-grey hoodie. Visible skin texture and pores, natural teeth.
@@ -154,11 +154,11 @@ Audio: clear close-mic voice, quiet room tone, no music.
 Soft window daylight from the left, warm grade. Realistic phone footage. No text on screen, no subtitles, no logos.
 ```
 
-### Scena 9 · 64–72s
+### Scene 9 · 64–72s
 
-- **Replica** (15 cuvinte, ~6.0 s vorbite): „Free version's in my bio, or comment steady. Steady, not perfect. See you next payday.”
-- **Text pe ecran:** `Free version in bio ↓`
-- **Mod Flow:** Ingredients to Video
+- **Line** (15 words, ~6.0 s spoken): "Free version's in my bio, or comment steady. Steady, not perfect. See you next payday."
+- **On-screen text:** `Free version in bio ↓`
+- **Flow mode:** Ingredients to Video
 
 ```
 Nora, an original fictional woman, about 28, warm light-olive skin with faint freckles across her nose and cheeks, soft oval face, slightly asymmetrical smile, warm brown eyes, natural thick brows, a small mole under her left eye, dark brown wavy shoulder-length hair half-up in a tortoiseshell claw clip with loose strands, thin gold hoop earrings, no makeup look. Wearing a plain light-grey hoodie. Visible skin texture and pores, natural teeth.
@@ -170,23 +170,23 @@ Audio: clear close-mic voice, quiet room tone, no music.
 Soft window daylight from the left, warm grade. Realistic phone footage. No text on screen, no subtitles, no logos.
 ```
 
-## Coperta clipului (Nano Banana)
+## Video cover (Nano Banana)
 
 ```
 Using the reference image, keep exactly the same face, freckles, mole, hair, clip, earrings and skin. Vertical 9:16 phone photo of Nora, an original fictional woman, wearing a plain light-grey hoodie, in a cozy living room at a small oak desk by a window, a laptop, a lamp, a plant, an open notebook and a few books in the background, softly out of focus. She looks straight at the camera with a clear, expressive face that matches the topic "POV: it's rent week and you're calm". Her face takes the upper-middle part of the frame, with empty calm space at the top for a title added later in CapCut. Soft window light from the left, warm grade, visible skin texture, natural teeth. No text, no logos, no watermark.
 ```
 
-Textul de pe copertă (adaugi în CapCut sau Canva, alb cu contur negru): `POV: rent week and you're... calm?`
+Cover text (add it in CapCut or Canva, white with a black outline): `POV: rent week and you're... calm?`
 
-## Montaj în CapCut
+## Editing in CapCut
 
-- Lipești cele 9 blocuri în ordine, tai pauzele de la începutul și sfârșitul fiecăruia (dar păstrează **peste 60 de secunde** în total; ținta e 66–72 s).
-- Subtitrări automate, mari, în treimea de sus, albe cu contur negru; cuvântul-cheie în cărămiziu `#C0563A`.
-- Un zoom ușor (110%) la fiecare 2–3 secunde, ca să nu stea imaginea pe loc.
-- Muzică doar din biblioteca CapCut sau TikTok, licențiată, la volum foarte mic sub voce.
+- Put the 9 blocks in order and trim the pauses at the start and end of each (but keep the total **over 60 seconds**; aim for 66–72 s).
+- Auto captions, large, in the top third, white with a black outline; the key word in terracotta `#C0563A`.
+- A light zoom (110%) every 2–3 seconds so the image never sits still.
+- Music only from the licensed CapCut or TikTok library, very low under the voice.
 - Export 1080×1920, 30 fps.
 
-## Descriere și hashtag-uri
+## Caption and hashtags
 
 ```
 Rent week doesn't have to be a crisis when your pay changes every week. Split it across every payday. Free calculator in bio.
@@ -194,12 +194,12 @@ Rent week doesn't have to be a crisis when your pay changes every week. Split it
 #rentweek #budgeting #paychecktopaycheck #gigworker #moneytips
 ```
 
-## Înainte să postezi (verificare)
+## Before you post (checklist)
 
-- [ ] Eticheta **AI-generated** e bifată (TikTok) / **AI info** (Instagram, Facebook)
-- [ ] Fața e aceeași în toate cele 9 blocuri (dacă nu, refaci blocul cu promptul A.4)
-- [ ] Clipul are peste 60 de secunde
-- [ ] Nicio marcă, nicio persoană reală, nicio promisiune de venit
-- [ ] Primul comentariu: răspunsul cu link pentru cuvântul STEADY e pregătit
+- [ ] The **AI-generated** label is on (TikTok) / **AI info** (Instagram, Facebook)
+- [ ] The face is the same in all 9 blocks (if not, redo the block with prompt A.4)
+- [ ] The video is over 60 seconds
+- [ ] No brands, no real people, no income promises
+- [ ] First comment: the link reply for the keyword STEADY is ready
 
-> Verificare automată: 145 de cuvinte vorbite, aproximativ 58 s de voce în 72 s de clip; toate blocurile au maxim 20 de cuvinte.
+> Automatic check: 145 spoken words, about 58 s of voice in a 72 s video; every block has 20 words or fewer.
