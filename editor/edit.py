@@ -76,7 +76,7 @@ def plan_trims(clips):
     for c in clips:
         d = duration(c)
         s, e = speech_bounds(c, d)
-        plans.append({"path": c, "dur": d, "start": s, "end": e})
+        plans.append({"path": c, "dur": d, "start": s, "end": e, "speech": (s, e)})
     total = sum(p["end"] - p["start"] for p in plans)
     full = sum(p["dur"] for p in plans)
     if total < MIN_TOTAL:
@@ -117,8 +117,8 @@ WrapStyle: 0
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Cap,{FONT},86,{WHITE},{WHITE},{BLACK},{BLACK},-1,0,0,0,100,100,0,0,1,7,0,5,80,80,0,1
-Style: Top,{FONT},58,{CHARCOAL},{CHARCOAL},{CREAM},{CREAM},-1,0,0,0,100,100,0,0,3,18,0,8,90,90,250,1
-Style: Hook,{FONT},96,{WHITE},{WHITE},{BLACK},{BLACK},-1,0,0,0,100,100,0,0,1,8,0,8,70,70,330,1
+Style: Top,{FONT},58,{CHARCOAL},{CHARCOAL},{CREAM},{CREAM},-1,0,0,0,100,100,0,0,3,18,0,8,90,90,110,1
+Style: Hook,{FONT},92,{WHITE},{WHITE},{BLACK},{BLACK},-1,0,0,0,100,100,0,0,1,8,0,8,70,70,100,1
 Style: Tag,{FONT},34,{WHITE},{WHITE},{BLACK},{BLACK},0,0,0,0,100,100,0,0,1,3,0,1,50,50,60,1
 
 [Events]
@@ -136,9 +136,9 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
         if sc["text"]:
             ev.append(f"Dialogue: 1,{ass_time(t0 + top_start)},{ass_time(t0 + seg)},Top,,0,0,0,,{esc(sc['text'])}")
         # spoken captions: chunks of up to 3 words, timed by character length across the speech
-        speak_from = p["start"] + (PAD if p["start"] > 0 else 0)
-        speak_to = p["end"] - (PAD if p["end"] < p["dur"] else 0)
-        speak_from, speak_to = speak_from - p["start"], speak_to - p["start"]
+        s0, e0 = p["speech"]
+        speak_from = (s0 + (PAD if s0 > 0 else 0)) - p["start"]
+        speak_to = (e0 - (PAD if e0 < p["dur"] else 0)) - p["start"]
         words = sc["line"].split()
         chunks = [words[j:j + 3] for j in range(0, len(words), 3)]
         weights = [sum(len(w) + 1 for w in c) for c in chunks]
