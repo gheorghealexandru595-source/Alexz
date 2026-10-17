@@ -73,7 +73,7 @@ Sound familiar?
 - "Rent week is always a nightmare."
 
 What's inside
-- A Google Sheet you copy in one click (phone or laptop)
+- One spreadsheet file: open it in Google Sheets, Excel or Numbers (phone or laptop)
 - Baseline tab: finds the weekly number you can count on
 - This Week tab: type what you earned, get 4 numbers: bills set-aside,
   tax jar, safe to spend, buffer
@@ -91,14 +91,14 @@ If your paycheck is the same every month, a regular budget will do.
 This isn't tax, debt or investing advice.
 
 How it works
-1. Copy the sheet.
+1. Download the file and open it in Google Sheets or Excel.
 2. Type your last 8 weeks of income.
 3. Every payday, type one number and follow the colours.
 
 FAQ
-Format? Google Sheets. Free Google account needed.
+Format? A spreadsheet (.xlsx). Opens in Google Sheets (free), Excel or Numbers.
 Devices? Phone, tablet, laptop.
-Instant access? Yes, the link arrives by email right after checkout.
+Instant access? Yes, you download it right after checkout and get it by email too.
 Refunds? If it doesn't work for you, email within 14 days for a full refund.
 
 Made by Nora, an AI creator. Templates built and tested by a real human.
