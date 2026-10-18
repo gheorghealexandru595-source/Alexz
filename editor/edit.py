@@ -97,6 +97,8 @@ def ass_time(t):
 
 
 def esc(s):
+    # the caption font has no emoji glyphs, so drop them instead of rendering empty boxes
+    s = "".join(ch for ch in s if ord(ch) < 0x2600 or 0x2190 <= ord(ch) <= 0x21FF).strip()
     return s.replace("{", "(").replace("}", ")").replace("\\", "/")
 
 
