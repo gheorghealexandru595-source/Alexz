@@ -12,7 +12,7 @@
 [00-08s] POV, it's rent week, your shifts were slow, and for once you're not panicking.
 [08-16s] Here's what changed. Rent stopped coming out of one paycheck. It comes out of all of them.
 [16-24s] Every payday, a slice goes to rent first. Before groceries, before takeout, before anything else.
-[24-32s] Slow week? The slice is smaller, and the cushion from your good weeks fills the gap.
+[24-32s] Slow week? The rent slice stays the same, and the cushion from your good weeks fills the gap.
 [32-40s] Good week? You top up the cushion first. Then you can enjoy the rest without guilt.
 [40-48s] So by the time rent is due, it's already sitting there. Nothing dramatic happens. That's the point.
 [48-56s] I built a simple sheet for this. You type what you earned, it tells you the rent slice.
@@ -75,7 +75,7 @@ Soft window daylight from the left, warm grade. Realistic phone footage. No text
 
 ### Scene 4 · 24–32s
 
-- **Line** (16 words, ~6.4 s spoken): "Slow week? The slice is smaller, and the cushion from your good weeks fills the gap."
+- **Line** (16 words, ~6.4 s spoken): "Slow week? The rent slice stays the same, and the cushion from your good weeks fills the gap."
 - **On-screen text:** `Slow week? Cushion fills the gap`
 - **Flow mode:** Ingredients to Video
 
@@ -84,7 +84,7 @@ Nora, an original fictional woman, about 28, warm light-olive skin with faint fr
 In a cozy living room at a small oak desk by a window, a laptop, a lamp, a plant, an open notebook and a few books in the background, softly out of focus.
 Vertical 9:16, handheld smartphone selfie, medium close-up, eye level, slight natural shake.
 Action: she shrugs, playful, natural hand gestures, natural blinking.
-Dialogue (General American accent, warm, calm, conversational): "Slow week? The slice is smaller, and the cushion from your good weeks fills the gap."
+Dialogue (General American accent, warm, calm, conversational): "Slow week? The rent slice stays the same, and the cushion from your good weeks fills the gap."
 Audio: clear close-mic voice, quiet room tone, no music.
 Soft window daylight from the left, warm grade. Realistic phone footage. No text on screen, no subtitles, no logos.
 ```

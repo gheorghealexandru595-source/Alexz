@@ -53,7 +53,7 @@ Use the attached reference image: keep exactly the same face, freckles, mole, ha
 In a cozy living room at a small oak desk by a window, a laptop, a lamp, a plant, an open notebook and a few books in the background, softly out of focus.
 Vertical 9:16, handheld smartphone selfie, medium close-up, eye level, slight natural shake.
 Action: she shrugs, playful, natural hand gestures, natural blinking.
-Dialogue (General American accent, warm, calm, conversational): "Slow week? The slice is smaller, and the cushion from your good weeks fills the gap."
+Dialogue (General American accent, warm, calm, conversational): "Slow week? The rent slice stays the same, and the cushion from your good weeks fills the gap."
 Audio: clear close-mic voice, quiet room tone, no music.
 Soft window daylight from the left, warm grade. Realistic phone footage. No text on screen, no subtitles, no logos.
 ```
