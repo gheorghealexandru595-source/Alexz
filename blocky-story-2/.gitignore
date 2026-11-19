@@ -1,0 +1,8 @@
+node_modules/
+frames/
+snaps/
+audio/
+*.log
+*.mp4
+chk/
+chk.jpg
