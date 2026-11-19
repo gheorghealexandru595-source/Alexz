@@ -133,11 +133,11 @@ start(() => {
   shot({ line: 'But my best friend Benny', set: hall, cam: frame(-7, 1, { size: 'close', side: -12 }),
     act(lt, c) { const b = H.ben[0].reset().place(-7, 1, -0.15).setFace('grin').pose('wave', remap(lt, 0.1, 0.4)).idle(c.t); b.armR.rotation.z += Math.sin(c.t * 14) * 0.25; } });
   // 10. sight gag (planted): a phone comes up, Benny throws his arms over his face and dodges
-  snapShot({ line: 'had never been in a single photo.', set: hall, sfx: [['tick', 'single', 1.4], ['whoosh', 'single', 0.6]], cam: frame(-9.9, 1.4, { size: 'full', dist: 1.45, side: 6 }),
+  snapShot({ line: 'had never been in a single photo.', set: hall, sfx: [['tick', 'single', 1.4], ['whoosh', 'single', 0.6]], cam: frame(-9.6, 1.4, { size: 'full', dist: 1.5, side: 4 }),
     act(lt, c) {
       const t0 = c.w('single') - 0.12, k = E.out(remap(lt, t0, t0 + 0.25));
       H.kidA[0].reset().place(-13.2, 1.6, Math.PI / 2).pose({ aR: [92, 2] }, remap(lt, 0, 0.3)).idle(c.t).setFace('grin'); hPhoneA.show();
-      const b = H.ben[0].reset().place(-6.6 + k * 1.4, 1.2, -0.3).idle(c.t);
+      const b = H.ben[0].reset().place(-6.8 + k * 0.5, 1.2, -0.3).idle(c.t);
       if (lt < t0) b.setFace('neutral'); else { b.pose({ aL: [152, -26], aR: [152, -26], lean: [0, -12] }, k).setFace('worried'); }
     } }, ['single']);
   // 11-14. the foil: Jade and her forty-two selves, then a list of three
@@ -288,7 +288,7 @@ start(() => {
     act(lt, c) { hideFrontChairs(); C.ben[0].reset().place(-2.4, 3.4, 0.3).sit(1.5).pose('hug').talk(c.t).idle(c.t).setFace(lt < c.w('hate') ? 'say' : 'mad'); } });
   shot({ line: 'Just one.', set: caf, cam: frame(0.6, 3.4, { size: 'close', side: 18 }),
     act(lt, c) { hideFrontChairs(); C.nar[0].reset().place(0.6, 3.4, -0.5).sit(1.5).pose({ aR: [96, -10] }).talk(c.t).idle(c.t).setFace(lt < c.w('one') ? 'say' : 'wink'); cPhoneN.show(); } });
-  snapShot({ line: 'Click. Click.', set: caf, sfx: [['tick', 'click', 1.4], ['sparkle', 'click'], ['tick', ['click', 1], 1.4], ['sparkle', ['click', 1]]], cam: frame(-2.4, 2.4, { size: 'full', dist: 1.0, low: 0.2 }),
+  snapShot({ line: 'Click. Click.', set: caf, sfx: [['tick', 'click', 1.4], ['sparkle', 'click'], ['tick', ['click', 1], 1.4], ['sparkle', ['click', 1]]], cam: { pos: [-2.4, 7.0, 12.5], look: [-2.4, 4.4, 2.6], fov: 60, blur: 0.2 },
     act(lt, c) {
       hideFrontChairs(); tacoTray.show().position.set(-2.4, 2.84, 4.9);
       const b = C.ben[0].reset().place(-2.4, 3.4, 0).sit(1.5).idle(c.t).setFace('shock');
