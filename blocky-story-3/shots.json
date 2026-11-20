@@ -1,0 +1,290 @@
+[
+ {
+  "i": 0,
+  "s": 0,
+  "e": 0.8,
+  "line": "In this town,"
+ },
+ {
+  "i": 1,
+  "s": 0.8,
+  "e": 1.82,
+  "line": "every excuse you make"
+ },
+ {
+  "i": 2,
+  "s": 1.82,
+  "e": 2.82,
+  "line": "makes you heavier."
+ },
+ {
+  "i": 3,
+  "s": 2.82,
+  "e": 3.71,
+  "line": "That's why lazy kids"
+ },
+ {
+  "i": 4,
+  "s": 3.71,
+  "e": 4.68,
+  "line": "are stuck waist-deep,"
+ },
+ {
+  "i": 5,
+  "s": 4.68,
+  "e": 5.68,
+  "line": "and honest people"
+ },
+ {
+  "i": 6,
+  "s": 5.68,
+  "e": 6.77,
+  "line": "practically bounce."
+ },
+ {
+  "i": 7,
+  "s": 6.77,
+  "e": 7.92,
+  "line": "I was only ankle-deep."
+ },
+ {
+  "i": 8,
+  "s": 7.92,
+  "e": 9.1,
+  "line": "But my best friend Leo"
+ },
+ {
+  "i": 9,
+  "s": 9.1,
+  "e": 10.06,
+  "line": "was chest-deep."
+ },
+ {
+  "i": 10,
+  "s": 10.06,
+  "e": 12.09,
+  "line": "He hadn't sat in a chair since fourth grade."
+ },
+ {
+  "i": 11,
+  "s": 12.09,
+  "e": 13.99,
+  "line": "Meanwhile, Zara never made excuses."
+ },
+ {
+  "i": 12,
+  "s": 13.99,
+  "e": 15.24,
+  "line": "Late for class? My fault."
+ },
+ {
+  "i": 13,
+  "s": 15.24,
+  "e": 16.57,
+  "line": "Forgot homework? My fault."
+ },
+ {
+  "i": 14,
+  "s": 16.57,
+  "e": 18.2,
+  "line": "Broke a window? Also my fault."
+ },
+ {
+  "i": 15,
+  "s": 18.2,
+  "e": 19.35,
+  "line": "Then I forgot my homework."
+ },
+ {
+  "i": 16,
+  "s": 19.35,
+  "e": 20.16,
+  "line": "My dog ate it."
+ },
+ {
+  "i": 17,
+  "s": 20.16,
+  "e": 21.7,
+  "line": "Thud. I sank to my knees."
+ },
+ {
+  "i": 18,
+  "s": 21.7,
+  "e": 22.56,
+  "line": "Zara winced."
+ },
+ {
+  "i": 19,
+  "s": 22.56,
+  "e": 23.95,
+  "line": "And that's when I had an idea."
+ },
+ {
+  "i": 20,
+  "s": 23.95,
+  "e": 25.27,
+  "line": "If I owned up to everything,"
+ },
+ {
+  "i": 21,
+  "s": 25.27,
+  "e": 26.41,
+  "line": "I'd be light as Zara."
+ },
+ {
+  "i": 22,
+  "s": 26.41,
+  "e": 28.31,
+  "line": "I said sorry to a plant. Nothing."
+ },
+ {
+  "i": 23,
+  "s": 28.31,
+  "e": 29.71,
+  "line": "I apologized for a sneeze."
+ },
+ {
+  "i": 24,
+  "s": 29.71,
+  "e": 30.43,
+  "line": "Still nothing."
+ },
+ {
+  "i": 25,
+  "s": 30.43,
+  "e": 31.91,
+  "line": "Then I knocked over a kid's tray,"
+ },
+ {
+  "i": 26,
+  "s": 31.91,
+  "e": 33.43,
+  "line": "and said, sorry, my fault."
+ },
+ {
+  "i": 27,
+  "s": 33.43,
+  "e": 34.92,
+  "line": "Pop. I shot out of the floor."
+ },
+ {
+  "i": 28,
+  "s": 34.92,
+  "e": 36.16,
+  "line": "So I owned everything."
+ },
+ {
+  "i": 29,
+  "s": 36.16,
+  "e": 37.1,
+  "line": "My messy locker."
+ },
+ {
+  "i": 30,
+  "s": 37.1,
+  "e": 37.91,
+  "line": "My bad haircut."
+ },
+ {
+  "i": 31,
+  "s": 37.91,
+  "e": 38.5,
+  "line": "My singing."
+ },
+ {
+  "i": 32,
+  "s": 38.5,
+  "e": 40.23,
+  "line": "By lunch, I bounced like Zara."
+ },
+ {
+  "i": 33,
+  "s": 40.23,
+  "e": 41.29,
+  "line": "But then I saw Leo,"
+ },
+ {
+  "i": 34,
+  "s": 41.29,
+  "e": 42.62,
+  "line": "chin-deep and alone."
+ },
+ {
+  "i": 35,
+  "s": 42.62,
+  "e": 43.75,
+  "line": "I'd spent all day bouncing"
+ },
+ {
+  "i": 36,
+  "s": 43.75,
+  "e": 45.17,
+  "line": "while my best friend was sinking."
+ },
+ {
+  "i": 37,
+  "s": 45.17,
+  "e": 46.59,
+  "line": "I knelt down. What's wrong?"
+ },
+ {
+  "i": 38,
+  "s": 46.59,
+  "e": 47.52,
+  "line": "It's never my fault."
+ },
+ {
+  "i": 39,
+  "s": 47.52,
+  "e": 48.37,
+  "line": "Just try once."
+ },
+ {
+  "i": 40,
+  "s": 48.37,
+  "e": 49.42,
+  "line": "He took a deep breath."
+ },
+ {
+  "i": 41,
+  "s": 49.42,
+  "e": 50.71,
+  "line": "I'm scared I'm not good enough."
+ },
+ {
+  "i": 42,
+  "s": 50.71,
+  "e": 51.94,
+  "line": "He shot up to his waist."
+ },
+ {
+  "i": 43,
+  "s": 51.94,
+  "e": 53.55,
+  "line": "Also, I broke your pencil."
+ },
+ {
+  "i": 44,
+  "s": 53.55,
+  "e": 56.41,
+  "line": "For the first time since fourth grade, Leo sat in a chair."
+ },
+ {
+  "i": 45,
+  "s": 56.41,
+  "e": 58.02,
+  "line": "Plus, that sneeze was mine."
+ },
+ {
+  "i": 46,
+  "s": 58.02,
+  "e": 58.82,
+  "line": "I stared at him."
+ },
+ {
+  "i": 47,
+  "s": 58.82,
+  "e": 60.039,
+  "line": "Totally worth it."
+ }
+]
