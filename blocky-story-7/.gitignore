@@ -1,0 +1,13 @@
+node_modules/
+frames/
+snaps/
+audio/
+*.log
+*.mp4
+chk/
+chk.jpg
+qa/
+qa2/
+timings_puck.json
+qa3/
+qa3/
