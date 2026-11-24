@@ -112,7 +112,7 @@ start(() => {
   shot({ line: 'She read books.', set: park, cam: frame(9, -0.9, { size: 'close', side: 14 }),
     act(lt, c) { P.lily.reset().place(9, -0.9, 0.2).sit(1.4).pose({ lL: 50, lR: 50 }).pose({ aL: [60, -20], aR: [60, -20], head: [18, 0, 0] }).idle(c.t).setFace('smile'); } });
   shot({ line: 'She climbed trees.', set: park, cam: { pos: [-14, 6.6, 9], look: [-18.6, 7.4, -4], fov: 58, blur: 0.15 },
-    act(lt, c) { P.lily.reset().place(-18.6, -4.6, 0, 6.4).pose('cheer').idle(c.t).setFace('laugh'); } });
+    act(lt, c) { P.lily.reset().place(-18.6, -2.6, 0, 6.4).pose('cheer').idle(c.t).setFace('laugh'); } });
   shot({ line: "She knew everyone's name.", set: street, cam: frame(1.2, 3, { size: 'medium', side: -10, dist: 1.1 }),
     act(lt, c) { S.lily.reset().place(1.2, 3, 0.4).pose('wave').idle(c.t).setFace('talk').talk(c.t); S.granny.reset().place(4, 2.4, -0.6).idle(c.t).setFace('grin'); } });
 
@@ -144,7 +144,7 @@ start(() => {
 
   // ═══════════════ ACCIDENTAL SUCCESS (park) ═══════════════
   shot({ line: 'Then Lily needed help with her treehouse,', set: park, cam: { pos: [-11.6, 5.4, 8], look: [-17.4, 5.4, -3], fov: 60, blur: 0.15 },
-    act(lt, c) { P.lily.reset().place(-18.4, -4.4, 0.4, 6.4).pose('wave').talk(c.t).idle(c.t).setFace('talk'); P.nar.reset().place(-15, 0.6, -0.6).idle(c.t).setFace('neutral').eyes(2.3, [-0.5, 0.6]); } });
+    act(lt, c) { P.lily.reset().place(-18.4, -2.6, 0.4, 6.4).pose('wave').talk(c.t).idle(c.t).setFace('talk'); P.nar.reset().place(-15, 0.6, -0.6).idle(c.t).setFace('neutral').eyes(2.3, [-0.5, 0.6]); } });
   shot({ line: 'and I forgot my phone existed.', set: park, sfx: [['tick', 'forgot', 1], ['tick', 'phone', 1], ['tick', 'existed', 1]], cam: frame(-15, 0.6, { size: 'medium', side: 14, dist: 1.15 }),
     act(lt, c) { const a = P.nar.reset().place(-15, 0.6, -0.8).pose({ aR: [130, 0] }).idle(c.t).setFace('laugh').eyes(2.3, [-0.6, 0.4]); a.armR.rotation.x += Math.sin(c.t * 16) * 0.35; } });
   shot({ line: 'My eyes shrank right back.', set: park, sfx: [['sparkle', 'shrank'], ['pop', 'shrank', 0.6]], cam: frame(-15, 0.6, { size: 'close', side: -10, dist: 1.1 }),
